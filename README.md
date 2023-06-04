@@ -1,0 +1,2 @@
+# GorevYoneticisi
+GorevYoneticisi_PTN
